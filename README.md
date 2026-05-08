@@ -1,6 +1,14 @@
 #  About Me:
- I'm currently working on<br> I'm building <strong>s<em style="color:#00AEEF;">ai</em>lor</strong>, a privacy-first email platform that uses <strong><em style="color:#00AEEF;">AI</em></strong> to summarize messages, detect phishing, and streamline multi-account management.<br><br>
-Building SELENA, an open-source AI-powered cybersecurity lab which simulates an ICS environment in a hands-on, safe environment with real-world OT (Operational Technology) scenarios.<br><br> I'm looking to collaborate on<br>Cybersecurity tools, AI automation projects, and educational platforms focused on threat simulation, red/blue teaming, or GenAI-enhanced learning.<br><br> I'm looking for help with<br>Integrating AI agents into offensive/defensive cybersecurity labs, streamlining workflows with n8n, and building clean frontend dashboards for security apps.<br><br> I'm currently learning<br> AI, Integrating AI into cybersecurity, and how to scale local projects into cloud-hosted platforms.<br><br>💬 Ask me about<br>Cybersecurity automation, building AI-driven labs, or anything related to AI + SecOps.
+I'm currently working on
+Building Black Gamers Network (BGN), a full-stack community platform for Black gamers and streamers, and securing it the right way — Twitch OAuth 2.0, XSS remediation, cloud infrastructure across Vercel and Railway, and a closed beta launch at blackgamersnetwork.com.
+I'm looking to collaborate on
+Application security tooling, DevSecOps automation, and projects at the intersection of AI and security — especially anything involving secure CI/CD pipelines, LLM integration risks, or cloud-native security architecture.
+I'm looking for help with
+Scaling BGN's platform features and community growth, and connecting with engineers who care about building secure products from the ground up.
+I'm currently learning
+AWS Solutions Architect Associate (exam scheduled May 2026), AI/ML security controls, and LLM threat modeling for production applications.
+💬 Ask me about
+Application security, securing full-stack applications in production, DevSecOps, cloud security across AWS and Azure, or building a gaming community platform from scratch.
 
 
 ##Socials:
